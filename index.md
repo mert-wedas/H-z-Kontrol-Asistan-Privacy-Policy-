@@ -29,7 +29,7 @@ Uygulama:
 - Kimlik doğrulama yapmaz
 
 ## Çocukların Gizliliği
-Uygulama 13 yaş altı çocuklara yönelik değildir.
+Uygulamayı kullanmak için yaş sınırı yoktur.
 
 ## Değişiklikler
 Bu gizlilik politikası gerektiğinde güncellenebilir.
