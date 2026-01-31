@@ -1,1 +1,1 @@
-# H-z-Kontrol-Asistan-Privacy-Policy-
+# Hız-Kontrol-Asistanı-Privacy-Policy-
